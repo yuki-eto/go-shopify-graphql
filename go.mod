@@ -1,4 +1,4 @@
-module github.com/r0busta/go-shopify-graphql/v3
+module github.com/yuki-eto/go-shopify-graphql/v3
 
 go 1.15
 
